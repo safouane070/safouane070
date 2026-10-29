@@ -1,10 +1,5 @@
-### Hoi, ik ben Safouane 👋
-
-Junior full-stack developer uit Den Haag (mbo-4 software developer, 2026). Ik bouw het liefst iets van begin tot
-eind: de database, de backend en wat de gebruiker op het scherm ziet. Het meest thuis in **PHP en Laravel**, ook
-vaardig met **React en Next.js**.
-
-**Projecten**
+Junior full-stack developer in Den Haag, mbo-4 software developer (2026). Ik werk vooral met PHP en Laravel,
+daarnaast met React en Next.js.
 
 | Project | Wat | Stack |
 |---|---|---|
